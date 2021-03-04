@@ -1,1 +1,1 @@
-# string-converter-and-comparer
+# String converter
