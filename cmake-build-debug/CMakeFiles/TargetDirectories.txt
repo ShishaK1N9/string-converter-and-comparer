@@ -1,0 +1,4 @@
+C:/Projects/Git/string-converter-and-comparer/cmake-build-debug/CMakeFiles/converter.dir
+C:/Projects/Git/string-converter-and-comparer/cmake-build-debug/CMakeFiles/comparer.dir
+C:/Projects/Git/string-converter-and-comparer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/Git/string-converter-and-comparer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
